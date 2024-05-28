@@ -1,0 +1,17 @@
+.no-pmb {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.np {
+    padding: 0;
+}
+
+.nm {
+    margin: 0;
+}
+
+.nb {
+    border: 0;
+}
